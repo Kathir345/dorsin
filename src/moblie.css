@@ -49,4 +49,10 @@
       .thirteen-font1{
         right: 40px;
       }
+      .container{
+       display: none;
+      }
+      .color-switcher{
+   display: none;
+      }
 }
